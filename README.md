@@ -1,4 +1,3 @@
-# EEG_data_pred
 
 # EEG Prediction
 
